@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/CP_GeoLock",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Geo Block - Restrict users to access in some country.",
+    "authors": [
+    {
+        "name": "Commerce Pundit",
+        "email": "magento@commercepundit.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

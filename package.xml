@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>CP_GeoLock</name>
+    <version>0.0.2</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Geo Block - Restrict users to access in some country.</summary>
+    <description>Geo Block - Restrict users to access in some country.</description>
+    <notes>Geo Block - Restrict users to access in some country.</notes>
+    <authors><author><name>Commerce Pundit</name><user>CPExtensions</user><email>magento@commercepundit.com</email></author></authors>
+    <date>2015-05-20</date>
+    <time>20:26:19</time>
+    <contents><target name="magecommunity"><dir name="CP"><dir name="GeoLock"><dir name="Helper"><file name="Data.php" hash="e1e68796ad97aea5a61ea98eba8a02f9"/></dir><dir name="Model"><file name="Observer.php" hash="1437ca118ec3ed351df555b1412a2b1b"/></dir><dir name="etc"><file name="adminhtml.xml" hash="fa52fb52e0e2a1f47de32a72ab68aa48"/><file name="config.xml" hash="741ad1ce3bdaf537a192c823043c8ab0"/><file name="system.xml" hash="eeaa1d68d3143ccc4bef83a7bc2f783e"/></dir><dir name="sql"><dir name="cp_geolock_setup"><file name="mysql4-install-0.0.1.php" hash="444d83c2d480a4a276c5a846075d783e"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="CP_GeoLock.xml" hash="02d55aa5c159a29bddd59f9a4581bd9e"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
