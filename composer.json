@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/CP_GeoLock",
+    "name": "openmage-module-fostering\/cp_geolock",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Geo Block - Restrict users to access in some country.",
     "authors": [
